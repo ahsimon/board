@@ -1,13 +1,14 @@
 import snake_utils
 
 #reads input from the kewboard
+## input example ,,;,*,;,, 
 input_string = input()
 
-#calls the board function from snake_utils.py
+#calls the  print_board function from snake_utils.py
 board = snake_utils.print_board(input_string)
 print(board)
-## input example ,,;,*,;,, 
 
+#calls the find_head function from snake_utils.py
 head = snake_utils.find_head(board)
 
 if head:
