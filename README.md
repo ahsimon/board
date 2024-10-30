@@ -13,4 +13,4 @@
 Please see  this one: https://github.com/ahsimon/python/blob/main/lists/evenumbers.py from my repo of python examples : https://github.com/ahsimon/python
 
 
-with :love: angelica!
+with  :heart:   angelica!
