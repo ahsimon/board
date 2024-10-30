@@ -2,8 +2,8 @@
 
 ## Contents
 
-- `snake_utils.py`: A module that provides functions to parse strings and find the coordinates of a specified character.
-- `snake.py`: A script demonstrating how to use the functions provided by the module.
+- `snake_utils.py`: print the board and finds the head
+- `snake.py`: uses snake_utils to find the head and print the board
 
 
 ## Notes
