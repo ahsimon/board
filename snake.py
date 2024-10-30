@@ -6,6 +6,7 @@ input_string = input()
 #calls the board function from snake_utils.py
 board = snake_utils.print_board(input_string)
 print(board)
+## input example ,,;,*,;,, 
 
 head = snake_utils.find_head(board)
 
